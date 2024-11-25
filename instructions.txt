@@ -1,7 +1,7 @@
 Tutorial:
 
-Blender Beginner Modelling Chair Tutorial - Part 4: Modifier Mayhem
+Blender Beginner Modeling Chair Tutorial - Part 8: Texture Mapping
 
-https://www.youtube.com/watch?v=BgY3QMXQYLI&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR&index=5
+https://www.youtube.com/watch?v=zJ_AoS7wojk
 
-Stop at: 0:00
+Stop at: 15:16
